@@ -30,3 +30,21 @@ cd sudoku-solver
 
 # Run the solver
 python sudoku_clean.py
+```
+## Tech
+
+Language: Python 3.10+
+
+Core Concepts: recursion, constraint propagation, backtracking search
+
+## Future Improvements
+
+Add command-line input for custom boards
+
+Visual GUI using Tkinter or Pygame
+
+Benchmark solver performance on large puzzle sets
+
+## Author
+
+Michael Acosta
